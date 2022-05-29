@@ -1,4 +1,4 @@
-## Olá, me chamo Rafael Rabelo, desenvolvedor web e apaixonado por Tecnologia!
+## Olá, me chamo Rafael Rabelo, desenvolvedor web e apaixonado por tecnologia!
 
 <div align="center">
   <a href="https://github.com/rafaelsrabelo">
